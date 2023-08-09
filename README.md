@@ -1,1 +1,1 @@
-# VRA---Vertical-Robotic-Arm
+# VRA-Vertical Robotic Arm
